@@ -6,7 +6,7 @@ module.exports = {
       alias: {
         // '@' :'src' 内部已经配置好了这个别名
         'assets': '@/assets',
-        'commmon': '@/common',
+        'common': '@/common',
         'components': '@/components',
         'network': '@/network',
         'views': '@/views',
